@@ -10,3 +10,6 @@ Project including
 - app.py for webapp deploy on PCF 
 - Redis database running on PCF
 - Parking project.ppx for project overview
+
+Sample PCF App
+https://parking.cfapps.io/
